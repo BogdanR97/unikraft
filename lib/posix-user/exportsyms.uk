@@ -15,3 +15,6 @@ uk_syscall_e_getpid
 uk_syscall_r_getpid
 uk_syscall_e_getppid
 uk_syscall_r_getppid
+setsid
+uk_syscall_e_setsid
+uk_syscall_r_setsid
